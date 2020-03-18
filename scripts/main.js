@@ -1,5 +1,5 @@
 const myHeading = document.querySelector('h1');
-let myButton = document.querySelector('button');
+let myButton = document.querySelector('btnUser');
 
 function multiply(num1, num2) {
     let result;
