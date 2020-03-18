@@ -1,0 +1,59 @@
+/*p:hover,
+li:hover
+{
+    color: red;
+    width: 500px;
+    border: 1px solid blue;
+}*/
+
+html /*select all elements of the webpage*/
+{
+    font-size:10px;/*10 pixel base font size*/
+    font-family: "Oswald", sans-serif;
+    background-color: #bdbdbd;
+}
+
+img
+{
+    display: block;
+    width: 200px;
+    margin: 0 auto;
+    
+}
+
+h1
+{
+    font-size: 60px;
+    text-align: center;
+}
+
+p,
+li
+{
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+}
+
+body
+{
+       width: 600px;
+       margin: 0 auto;
+       padding: 0px 20px 20px 20px;
+       background-color: cadetblue;
+       border: 4px double black;
+}
+
+h1
+{
+    margin: 0px;
+    padding: 20px 0;
+    color: #bdbdbd;
+    text-shadow: 3px 3px 1px black;
+}
+
+#signature
+{
+    font-size: 10px;
+    text-align: center;
+}
