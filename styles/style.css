@@ -1,11 +1,3 @@
-/*p:hover,
-li:hover
-{
-    color: red;
-    width: 500px;
-    border: 1px solid blue;
-}*/
-
 html /*select all elements of the webpage*/
 {
     font-size:10px;/*10 pixel base font size*/
